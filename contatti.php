@@ -1,0 +1,1 @@
+Secondo file di prova di GIT
